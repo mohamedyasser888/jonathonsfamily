@@ -1,0 +1,1 @@
+-- Run the full script in profiles.sql (same content for existing databases)
